@@ -1,5 +1,13 @@
 @-moz-document url-prefix("https://erdplus.com/edit-diagram/")
 {
+  /* ==UserStyle==
+@name         ERDPlus - Make properties selector transparent when not in user
+@homepageURL  https://github.com/Cyber3x/ERDPlusPlus/tree/main/custom_styling
+@version      1.0.0
+@license      Other
+@description  This theme makes the navigation bar on top of Google searches stick to the top.
+@author       Neven Lukić (https://github.com/Cyber3x)
+==/UserStyle== */
   .jss7 {
     background: transparent;
     position: absolute;
