@@ -8,15 +8,28 @@
 @description  This theme makes the navigation bar on top of Google searches stick to the top.
 @author       Neven Lukić (https://github.com/Cyber3x)
 ==/UserStyle== */
-  .jss7 {
+  #root section div:nth-of-type(2) div:nth-of-type(2) {
     background: transparent;
     position: absolute;
     right: 0;
     padding: 0;
   }
 
+  #root section div:nth-of-type(2) div:nth-of-type(2) * {
+    position: relative;
+  }
+
   .MuiGrid-root.MuiGrid-container {
     background: #eeeeee;
     padding: 1em;
+    border-bottom-left-radius: 1em;
+  }
+
+  .MuiToolbar-regular {
+    min-height: 40px;
+  }
+
+  .MuiAppBar-colorPrimary {
+    background-color: #ff6231;
   }
 }
