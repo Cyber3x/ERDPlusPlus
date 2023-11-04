@@ -1,0 +1,14 @@
+@-moz-document url-prefix("https://erdplus.com/edit-diagram/")
+{
+  .jss7 {
+    background: transparent;
+    position: absolute;
+    right: 0;
+    padding: 0;
+  }
+
+  .MuiGrid-root.MuiGrid-container {
+    background: #eeeeee;
+    padding: 1em;
+  }
+}
