@@ -3,11 +3,11 @@ This style makes the properties panel transparent when nothing is selected. When
 
 #### Installation
 1. Install [Stylus](https://github.com/openstyles/stylus?tab=readme-ov-file#releases) browser extension
-2. Click on the extension icon
+2. Click on the extension icon<br/>
 ![Alt text](./intruction_images/extension_button.png)
-3. Click on the "Find styles" button
+1. Click on the "Find styles" button<br/>
     ![Alt text](./intruction_images/image.png)
-4. Select the first extension
+2. Select the first extension<br />
 ![Alt text](,/../intruction_images/image-1.png)
 
 ### Instalation done
